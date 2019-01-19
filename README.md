@@ -1,4 +1,4 @@
-# first_try
+# show_titles
 
 A new Flutter project.
 
